@@ -11,6 +11,36 @@
 
 <hr>
 
+# Login e SignUp
+
+<img src="https://github.com/gui-silva-github/teamscope/blob/main/public/images/Login%20e%20SignUp.png"/>
+
+<hr>
+
+# Dashboard
+
+<img src="https://github.com/gui-silva-github/teamscope/blob/main/public/images/Dashboard.png"/>
+
+<hr>
+
+# Time
+
+<img src="https://github.com/gui-silva-github/teamscope/blob/main/public/images/Time.png"/>
+
+<hr>
+
+# Projetos
+
+<img src="https://github.com/gui-silva-github/teamscope/blob/main/public/images/Projetos.png"/>
+
+<hr>
+
+# Modal
+
+<img src="https://github.com/gui-silva-github/teamscope/blob/main/public/images/Modal.png"/>
+
+<hr>
+
 ## 🚀 Tecnologias
 
 ### Frontend

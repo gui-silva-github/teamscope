@@ -52,7 +52,7 @@ export default function Employees(){
                 <table className="w-full border-collapse bg-white text-black shadow-sm rounded-lg">
                     <thead>
                         <tr className="bg-gray-100 text-gray-800 border-b">
-                            {["Foto", "Nome", "Email", "Cargo", "Linkedin", "GitHub", "Ações"].map((header) => (
+                            {["Foto", "Nome", "Email", "Cargo", "GitHub", "Linkedin", "Ações"].map((header) => (
                                 <th key={header} className="border p-3 text-left">{header}</th>
                             ))}
                         </tr>
